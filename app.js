@@ -23,3 +23,5 @@ const start = async () => {
 };
 start();
 console.log("hello world by l2");
+
+console.log("hello world by l1");
